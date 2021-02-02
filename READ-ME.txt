@@ -1,0 +1,7 @@
+Added context-path in application.properties: server.servlet.context-path=/websites
+
+Mongodb
+
+three get requests by type
+
+TODO - try one get request by type
